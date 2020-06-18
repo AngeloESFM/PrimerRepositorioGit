@@ -7,3 +7,4 @@ while i<10:
     i+=1
 
 print("Viendo las diferencias del último cambio guardado")
+print("Haciendo un merge!")
