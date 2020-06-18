@@ -10,3 +10,5 @@ print("Viendo las diferencias del último cambio guardado")
 print("Haciendo un merge!")
 
 print("Ya subí el primer repositorio a GITHUB")
+print("Modificamos el último commit")
+print("a ver que pasa")
